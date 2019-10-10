@@ -13,10 +13,10 @@ Preform 'git clone' on project to add project to local machine
 ### How to add code
 
 Push changes frequently to show progress
-ex.
-git add .
-git commit -m "added new contact page'
-git push
+ex.   
+git add .  
+git commit -m "added new contact page' .     
+git push . 
 
 
 
